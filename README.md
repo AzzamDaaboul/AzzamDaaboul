@@ -1,10 +1,4 @@
-### Hi there 👋
-
 <!--
-**AzzamDaaboul/AzzamDaaboul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +8,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, Assalamu Aleykum 👋
+
+# 📫 Get in Touch
+<a href="https://www.linkedin.com/in/azzamdaaboul/" taget="_blank">LinkedIn</a>  
+<a href="https://wa.me/32488722412" taget="_blank">WhatsApp</a>
