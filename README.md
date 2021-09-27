@@ -9,7 +9,8 @@
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, Assalamu Aleykum 👋
+### Hi there, Assalamu Aleykum 👋 
+![](./Syria-flag-svg/sy.svg)
 
 # 📫 Get in Touch
 <a href="https://www.linkedin.com/in/azzamdaaboul/" taget="_blank">LinkedIn</a>  
